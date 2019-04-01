@@ -9,7 +9,6 @@ float simpson(int x0, int x1);
 float ThreeEights(int x0, int x1);
 float boole(int x0, int x1);
 
-
 int main() {
 	
   float x0, x1;
