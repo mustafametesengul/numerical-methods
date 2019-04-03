@@ -4,7 +4,6 @@
 using namespace std;
 #define f exp
 
-
 float trapezoidal(int x0, int x1);
 float simpson(int x0, int x1);
 float ThreeEights(int x0, int x1);
